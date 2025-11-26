@@ -1,30 +1,180 @@
 
-** Clear objectives and specific goal setting:
+* Terms and Conditions
+
+** Key Provisions
+
+*** Parties to the Agreement
+
+*** Principle Contacts
+
+*** Metadata
+
+| Call-Off Contract reference   | [Enter reference]             |
+| Call-Off Contract title       | [Enter title]                 |
+| Call-Off Contract description | [Enter description]           |
+| Start date                    | [Enter start date]            |
+| Expiry date                   | [Enter expiry date]           |
+| Call-Off Contract value       | [Enter value]                 |
+| Charging method               | [Enter method]                |
+| Purchase order number         | [Enter purchase order number] |
+
+
+*** Term
+
+*** Coaching Commencement Date
+
+*** Premises, Locations, and Access
+
+*** Provision of Services
+
+*** Onboarding and Preparation
+
+*** Offboarding
+
+*** Managing this Contract
+
+*** Standards
+
+*** Coachee Obligations
+
+** Order of Precedence
+
+** Term
+
+** Warranties
+
+** Exit and Handover
+
+** Consequences of Termination
+
+** Termination
+
+** Data Protection
+
+** Records Retention
+
+** Audit
+
+** Intellectual Property
+
+** Insurance
+
+** Indemnity
+
+** Limitation of Liability
+
+** Conflicts of Interest and Collusion
+
+** Assignment, Novation and Sub-Contracting
+
+** Force Majeure
+
+** Complaints and Disputes
+
+** Notice
+
+** Change Control
+
+** General
+
+*** No relationship
+
+*** Severability
+
+*** Expenses
+
+*** Rights and Remedies
+
+*** Third Parties
+
+*** Entire Agreement
+
+*** Governing Law
+
+*** Use of English
+
+** Contract Template Licence
+
+** Agreement Checklist
+
+** Agreement
+
+** Signatures
+Finalize the contract with both parties' signatures and the date to confirm mutual understanding and consent.
+
+
+* Schedules
+
+** Schedule 1 - Definitions
+
+** Schedule 2 - Goals and Objectives
+*** Clear objectives and specific goal setting:
 Establish the direction by working with the client to define their key goals.
 
 For example, a client wants to improve their leadership skills, set measurable objectives like 'lead a team project within 6 months' or 'receive positive feedback from at least 3 direct reports.' Define what success will look like, such as achieving specific leadership milestones or improving team performance.
 
 This approach ensures both you and your client are aligned on expectations, providing a clear path forward for progress.
 
-** Session logistics:
+** Schedule 3 - Coaching Sessions
+*** Session logistics:
 Be specific about the number of your coaching sessions, their duration, how often they'll happen, and the format (online, phone, in-person).
 
-** Roles and expectations:
-Outline what you're responsible for (e.g., showing up prepared, offering guidance) and what the client is expected to do (e.g., follow through, stay engaged and committed).
-
-** Communication boundaries
-Set clear guidelines for how clients can contact you between sessions and also how to contact you to know when you're available.
-
-** Scheduling and cancellations
+*** Scheduling and cancellations
 Include how to book sessions, how much notice is needed to cancel or reschedule, and whether there are penalties for your clients for no-shows or last-minute changes.
 
-** Fees and payment process
+** Schedule 4 - Roles
+*** Roles and expectations:
+Outline what you're responsible for (e.g., showing up prepared, offering guidance) and what the client is expected to do (e.g., follow through, stay engaged and committed).
+
+*** Communication boundaries
+Set clear guidelines for how clients can contact you between sessions and also how to contact you to know when you're available.
+
+** Schedule 5 - Performance
+
+** Schedule 6 - Confidentiality and Data Protection
+
+*** Confidentiality
+*** Commercially Sensitive Information
+*** Data Protection
+*** Permission to Process Personal Data
+*** Record of Processing Activity
+*** Information Security
+
+** Schedule 7 - Charges
+*** Fees and payment process
 Lay out how much your services cost, when payments are due, how they should be made, and your refund policy (if applicable).
 
-
-** Timeline of the coaching relationship
+** Schedule 8 - Timeline of the coaching relationship
 Clarify the overall duration of the engagement, whether it's a fixed term or ongoing, and any review or renewal points.
-** Conduct guidelines
+
+** Schedule 9 - Conduct, Principles and Ethics
+*** Conduct
 State expectations for professionalism and respectful behavior from both sides to keep your sessions productive and safe.
-** Signatures and agreement
-Finalize the contract with both parties' signatures and the date to confirm mutual understanding and consent.
+
+*** Principles
+*** Ethics
+
+
+
+* Internet tidbits
+Confidentiality
+Fees and payment
+Define coaching goals
+Payment terms
+Refund policy
+Services provided
+Termination
+Disclaimer
+Dispute resolution
+Duration and frequency
+Expectation setting
+Limitation of liability
+Purpose and scope
+Rescheduling Policy
+Boundary establishment
+Client responsibility
+Identification of parties
+Refunds
+Responsibilities of both parties
+Scope of coach services
+Signatures

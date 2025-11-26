@@ -1,0 +1,317 @@
+** Schedule 1 - About this Memorandum of Understanding
+
+[instructions]
+{guidance}
+~~optional text~~
+
+*** What is a Memorandum of Understanding?
+A Memorandum of Understanding (MOU) is a morally binding agreement between two or more parties. It is not enforceable in the same way a contract, but offers the parties a means of clarifying and documenting a formal arrangement. MOUs are useful where the parties do not need all thye features of a contract but would find the structure of a written agreement more useful than simple verbal communication.
+
+MOUs are a tangible artefact that represents the agreement. They can be used by both parties to refer back to an agreed position or create new agreements through mutual change control. An MOU offers a clear record of the agreement and ensure that the parties can codify their 'contracting' discussions.
+
+*** When to Use this MOU
+This MOU is designed for use in the provision of:
+1. Pro bono coaching
+2. Coaching delivered as part of a Coach's training or qualification.
+3. Ad-hoc coaching where the parties are willing to accept the risk of no formal contract but wish to obtain the benefits of any agreed document.
+
+*** Is a contract needed?
+The parties need to agree what features are required in the agreement and to what extent they wish to enforce them. A simple test for whether the parties need a contract is to answer the following questions:
+
+1. Do the parties intend to exchange anything of value beyond the coaching expertise and services e.g. money, or additional goods and services?
+2. Do the parties require any aspect of the coaching services to be legally enforceable i.e. one party can compel, or by way of legal action, have the other party compelled to carry out their obligations?
+3. Do the parties need enforceable rights, remedies, liabilities, warranties,  or performance requirements?
+4. Do the parties need to clarify rights to any intellectual property, either being used in the undertaking of the services or generated as a result?
+
+If the answer to any of these questions is 'yes' for either party, then a contract is required. The standard 'Open Coaching Contract' includes all the necessary features to make a binding coaching agreement. The 'Open Organisational Coaching Contract' provides the structure for contracting with an organisation to provide services to one or more Clients within the organisation.
+
+*** Data Sharing Agreements
+Coaching requires the processing of personal data. This may simply be demographic information such as names, ages, and addresses. Through the course of coaching, the Client may wish to share personal information include what is known as special category data (about health, political affiliations, criminal records etc.)
+
+All coaching under this MOU shall be subject to a Data Sharing Agreement (DSA). This MOU is not intended to be a DSA but references out to a standard 'Open Coaching DSA' that may be used in conjunction with this MOU.
+
+The MOU will remain non-binding; however, the DSA will be an binding and enforceable agreement in line with the Data Protection Act (2018) and UKGDPR.
+
+*** Parties to this MOU
+This MOU is effective from the signature date of the second party which is [insert second signature date].
+
+This MOU is between the following:
+
+1. [insert coach's full name], providing coaching services on behalf of [insert coach's organisation name], [Insert coaching organisation address].
+2. [insert Client's full name]
+
+{if coaching has been commissioned by an organisation on behalf of the client then ensure that the organisation's details are also captured.}
+
+~~The Client is an employee of [insert Client's employer Name, Registered Address, and Company Number].~~
+
+~~This coaching is overseen and managed by [Insert Employer's nominated representative Full name]~~
+
+Together these represent the 'Parties'.
+
+*** Contact Details
+The Parties can be contacted using the following details:
+
+| Party              | e-Mail                  | Phone                   |
+|--------------------+-------------------------+-------------------------|
+| Coach              | [Insert coach's email]  | [Insert Coach's phone]  |
+| Client             | [Insert Client's email] | [Insert Client's phone] |
+| Org Representative | [Insert Org Rep email]  | [Insert Org Rep phone]  |
+
+
+
+** Schedule 2 - Goals and Objectives
+{Goal focussed coaching allows the client to define success as part of the contracting and early stages of the process. In setting a formal goal the remainder of coaching has direction and structure. The purpose of this schedule is to set out the Client's goals and objectives. These are the structured and defined outcomes that the Client aims to achieve. Coaching is the process that is supporting and facilitating the Client. }
+
+The parties shall collaborate to achieve the Client's Goals. Goals shall be achieved by completing one or more Objectives. The Client shall be responsible for the approval of all goals and objectives. The Client shall also be responsible for achieving the Goals and Objectives. The Coach shall support the Client through the process of coaching to define and test the Goals and Objectives set out in this Coaching Contract.
+
+*** Goals
+**to complete** {The goals of the coaching are the final outcomes that the Client wishes to achieve as a result of undertaking the coaching. These should be defined early in the process but can be altered and changed. Unlike objectives, this template recommends documenting the coaching goals in this document only. Goals have strategic importance and should not be taken lightly. Changes to goals should be subject to rigorous assessment and change control. Materially altering goals in the middle of coaching may have significant knock-on effects for pre-existing objectives and any timescales and payments that the coaching is subject to.}
+
+{The parties should ensure goals are well defined and mutually understood as part of their coaching relationship. Goals should be properly structured using the SMART methodology to ensure that there is sufficient context and detail on which to base future coaching sessions.}
+
+Goals are the long-term, broad outcome that the parties intend to achieve as a result of this collaboration. These are defined by the Client and represent their chosen aspirations.
+
+The parties shall collaborate to define Goals that will achieve the Client's aspirations and purpose for undertaking coaching. The Coach shall facilitate and support the Client in the definition of Goals. The Client must be responsible for the approval and acceptance of all Goals and satisfied that they will, if completed achieve the desired outcome.
+
+The Client has identified the following key goals:
+{goals should be easy to state and clear. The goal itself should be inserted in this simple list to ensure ease of reference. Detailed breakdowns of the goals should be included below.}
+1. [insert goal #1]
+2. [insert goal #2]
+3. [insert goal #3]
+4. [insert goal #x]
+
+The goals above have been subject to SMART analysis. The breakdown of this analysis can be found below.
+
+**** [Goal 1][Goal Title]
+{Goals should be included here and follow the SMART structure. To simplify this, goals can be inserted using a table but must stay within this document.}
+
+***** Goal Summary
+{Being able to quickly understand the goal in one or two sentences supports the creation of clear, succinct, and achievable vision. This is the 'elevator pitch' for the goal.}
+
+[Provide a brief summary of the goal in less than 100 words.]
+
+***** Detailed Goal Description
+{This is the first stage of SMART - Specific. The goal needs to include all the relevant detail to understand the context and desired outcome. This should include as much detail as possible so that the goal is a true reflection of the outcome the Client wishes to achieve.}
+
+{The parties should be aware that goals may need to be broken up if their outcome is not suitably specific. Two 'red flags' for this section are woolly outcomes (not enough detail to be specific) or too many outcomes (the goal has too many varied outcomes and is cumbersome). Goals need to have a balance of clear detail and a succinct outcome. Remember, there is nothing wrong with having lots of goals, simply break them up.}
+
+[Clarify the specific points of the goal. Use a bullet list and assess whether the goal needs to be split into different goals to ensure each goal remains specific.]
+
+- [What will achieving this goal look like?]
+- [How will this goal improve things for the Client?]
+- [Who is involved in the achievement of the goal?]
+- [What are the impacts of achieving the goal?]
+
+
+***** Goal Acceptance Criteria
+{This section of SMART - Measurable - allows the parties to define the conditions that describe when a goal has been achieved. For example, the goal "I want to be able to sell more pencils" may have an acceptance criterium of "25% more pencils sold compared to last years figures".}
+
+{It may also be wise to define milestones or check point criteria that help the parties to understand the progression against a goal. For example, "I will sell 10 more pencils in January, 100 more in February, and 1,000 more by the end of March".}
+
+{The parties may also create a user story that defines an experience or persona that describes the desired impact of the final outcome. For example, "I will have completed this goal when I can confidently attend the company sales meetings and highlight improved sales both in the first quarter and with a sales pipeline for the following six months. This is less succinct but brings useful context and highlights important factors such as confidence and longer-term security.}
+
+{Criteria can also set a sliding scale of achievement. For example, "I shall sell a minimum of 10% more pencils before March. My personal target is to achieve a 25% increase in sales. A stretch goal would increase sales by 30%." Here the criteria offers a minimum point of acceptance and options for more successful outcomes.}
+
+{Any criteria should allow the parties to define and measure both progress and satisfactory completion of the goal. This may also be known as the 'Milestone Acceptance' or 'Definition of Done'.}
+
+The Client shall define this Goal as 'completed' when the criteria set out below have been met:
+- [Acceptance Criterium 1]
+- [Acceptance Criterium 2]
+- [Acceptance Criterium 3]  
+
+***** Goal Feasibility Assessment
+{This phase of SMART - Achievable - requires the Goal to be reality tested. Goals need to be achievable given the available skills, capabilities, resources, and time. The coach will support the Client through the coaching sessions to assess the feasibility (is the goals technically possible) and viability (does the client have the resources to achieve the goal)?}
+
+{The parties can define how they wish to capture how the goal is deemed achievable. The simplest way to do this is to assume the goal is achievable and identify the risks that may impact its achievement. This assumes a rudimentary assessment of feasibility and honesty from the client that their goal can be completed e.g. "I want to be able to go from a £25k salary to £1m salary in 8 weeks" may technically be feasible but it feels unrealistic and thus taking the time to identify the risks to no achieving the goal may not be a valuable exercise.}
+
+{The following paragraph templates allow for the parties to openly define the feasibility and viability of the goal. The parties could also use a risk matrix that maps likelihood and impact of specific risks.}
+
+This goal is achievable and shall be progressed because...
+- [What makes this goal Achievable?]
+
+The parties will maintain ongoing review of the risks that may impact the goal. The parties have identified the following risks:
+- [What could stop this goal from being achieved?]
+
+The parties have put in place the following mitigations to limit the impact of identified risks:
+- [What mitigations do the parties need to consider to limit the impact of identified risks.]
+
+| Risk         | Description                                   | Likelihood (1/5)                  | Impact (1/5)                | Mitigations                       |
+|--------------+-----------------------------------------------+-----------------------------------+-----------------------------+-----------------------------------|
+| [Risk Title] | [Description of the Risk. What would happen?] | [Likelihood of Impact - 5 = high] | [Impact of Risk - 5 = high] | [how will the risk be mitigated?] |
+
+***** Goal Relevance
+{This phase of SMART - Relevance - tests where the goals is actually aligned to broader outcomes and external context. This MOU uses the concept of Goals and Objectives. Objectives must be relevant to a specific goal. The Goals themselves should be relevant to the overall purpose of the coaching. It may also need to be relevant to factors such as organisational strategy, policy, or guidance. For example, the goal "Sell 25% more staplers" is not relevant to our pencil salesman. They may have a goal to sell more staplers but this is irrelevant to their role as a pencil salesman, would receive no support from the organisation, and ultimately may fail either due to a lack or relevance or viability.}
+
+This goal is relevant to the Client because:
+- [relevant purpose 1]
+- [relevant purpose 2]
+- [relevant purpose 3]
+  
+***** Goal Timescales
+{The final stage of the SMART process is to assess the timescales for the completion of this goal. This should include all relevant information regarding timescales and not simply the target completion date. This section should consider any relevant dependencies, deadlines, or dead-stop dates by which the goal needs to be completed. For example, "17th February - regional sales meeting to submit my improved pencil sales data".}
+
+{This section should also consider the dates of any relevant milestones or external events that are important to the goal. For example, "9th December - Annual appraisal with line manager where I want to have hit my minimum pencil sales target".}
+
+{Finally, It may also document any dates after which the goal becomes invalid or needs to be reviewed. For example, "1st January - new pencil pricing made available from head office which may impact my sales forecasts"}
+
+The parties have identified the following key dates:
+
+| Date            | Type                          | Description           |
+|-----------------+-------------------------------+-----------------------|
+| [relevant date] | [deadline/milestone/other...] | [Description of Date] |
+
+**** [Goal X]
+{repeat the format above for each objective}
+
+**** Goals Declaration
+
+The parties agree to the following declaration and in signing this coaching contract accept the goals as defined in the previous section. The parties agree that:
+
+1. The goals are specific:
+   - The goals are detailed, specific, and succinct.
+   - The goals are easy to understand and atomic (self-contained).
+   - The goals have sufficient detail so that the parties understand both the direction of progression required and the proposed outcomes and deliverables.
+2. The goals are measurable:
+   - The parties have clarified the criteria by which the successful progression and achievement of the goal will be assessed.
+   - The successful achievement of goals will be assessed by these predetermined criteria only.
+3. The goals are achievable:
+   - The parties have collaborated to reality test and assess the feasibility and viability of the goal.
+   - It is believed, within reason to be capable of successful completion considering all relevant, identified risks and constraints.
+   - The parties have reviewed and understood the risks to completing the goal and have wherever possible considered mitigations to limit the impact or likelihood of risks materialising.
+4. The goals are relevant:
+   - The parties have assessed that the goals are all relevant to the Client's prevailing situation and context.
+   - The parties accept that achieving this goal will provide a relevant progression in the Client's position and support the broader aims and principle of a coaching engagement.
+5. The goals have clear timescales:
+6. The goals can be altered:
+   - The parties agree that changes to the goals are possible
+   - Any changes should be subject to the Change Process.
+   - The parties agree that should the Client wish to make material alterations to the goals later in the coaching sessions, then it may no longer be viable to achieve the altered outcomes.
+   - The parties shall collaborate in good faith to minimise the impact of changes on the overall coaching engagement.
+
+*** Objectives
+{Goals represent the aspirations of the Client. To be effective, Goals need to be succinct; however, this may hide the level of complexity necessary to actually complete the Goal. Objectives represent the practical tasks that must be undertaken. Objectives can be made of multiple tasks or actions. For example, to "increase pencil sales 25% before March" our salesperson may need to set an objective of "create a report detailing the current pencil market trends" which in turn may require tasks such as "build report template", "undertake market research", "review competitors annual reports".}
+
+{This Coaching Contract should not be used to track all actions and tasks relating to the training. The Client must have separate systems for building tasklists and tracking their progress. Objectives represent the high-level building blocks of a Goal and represent the key workstreams for the Client. Goals represent the Client's aspirations, Objective represent the practical workstreams that are needed to achieve the goal, each workstreams is  made up of a larger number of tasks, activities, and responsibilities.}
+
+Each Goal is achieved by completing specific Objectives. Objectives are the practical milestones identified by the Client that must be completed to achieve the outcome of the a final Goal. The parties shall collaborate to define objectives that will achieve the Client's goals. The Coach shall facilitate and support the Client in the definition of Objectives. The Client must be responsible for the approval and acceptance of all objectives and satisfied that they align to the defined goals. 
+
+{Please note that objectives, like goals, may adapt and change through the sessions. The parties shall agree the most suitable way to track and manage these goals. For example, the parties may wish to use a spreadsheet or Kanban board. Where the parties create an external artefact, they should detail the name and location of the document and include the drafting on external documents below.}
+
+~~The parties agree to maintain a separate document to manage objectives. This shall be continaully updated and managed by the parties as part of the coaching sessions. The Coach shall be responsible for the initial drafting of any artefacts and carefully consider the structure and usage of any template. The Client shall be responsible for reviewing, commenting, and feeding back and relevant points to the Coach.~~
+
+~~The document filename holding all objectives is [insert document filename]~~
+
+~~The document is stored in [insert shared location for document or detail the process for document management]~~
+
+**** [Objective 1]
+{Objectives should be included here and, like goals, should follow the SMART structure. To simplify this, objectives can be inserted using a table or within a separate document.}
+
+{Objectives follow the same SMART principles as goals. The guidance above remains relevant to each Objective. Any additional considerations have been included below.}
+
+***** Objective Summary
+{as per Goal}
+
+***** Detailed Objective Description
+{as per Goal}
+
+***** Objective Acceptance Criteria
+{as per Goal}
+
+***** Objective Feasibility Assessment
+{as per Goal}
+
+***** Objective Relevance
+{Objectives should form part of a 'golden thread' of purpose. Each objective should be tied directly to a Goal. As such, consider detailing the specific Goal for which this objective is relevant. This may be multiple goals. This approach shall save repeating the same relevance at each stage of the thread.}
+
+***** Objective Timescales
+{as per Goal}
+
+**** [Objective X]
+{repeat the format above for each objective}
+
+** Schedule 3 - Coaching Sessions
+{Be specific about the number of your coaching sessions, their duration, how often they'll happen, and the format (online, phone, in-person).}
+
+*** Session Details
+[insert details about the duration and number of sessions that have been agreed.]
+
+[create an agreement about who sends session invites and when these will be sent.]
+
+*** Session Timings
+{The timings of the sessions should be logged in the contract. This will encourage the regular review of the agreement and will trigger a simple review of logistics should the parties change any meetings dates}
+
+[create a table of the agreed dates that the parties will meet for sessions.]
+
+[detail any times that do not work for either party and any time specific considerations e.g. school pick up, non working days etc.]
+
+*** Session Location
+{The parties must track the location of sessions and clarify any reasonable considerations that may affect the parties. A check list is provided below to highlight key considerations. The parties must consider how the choice of location affects the coaching outcomes and be cognisant of each other's needs.}
+
+[Create a table that sets out the location for each session. If they are all in the same location simply state this. Likewise, if the are remote then please state this].
+
+[Provide an address for a physical location or clarify the software being used for remote coaching.]
+
+[Clarify and location specific considerations - use the check list for this]
+
+[Identify Client specific accommodations for the location]
+
+[Clarify any location specific restrictions e.g. parking, opening times, security checks]
+
+*** Scheduling and Cancellations
+{Include how to book sessions, how much notice is needed to cancel or reschedule, and whether there are penalties for your clients for no-shows or last-minute changes.}
+
+*** Client Needs
+{Clarify any specific needs of the Client. Consider learning styles, medical and accessibility considerations, cultural accommodations, or
+
+** Schedule 4 - Roles
+*** Roles and expectations:
+{Outline what you're responsible for (e.g., showing up prepared, offering guidance) and what the client is expected to do (e.g., follow through, stay engaged and committed).}
+
+*** Communication boundaries
+{Set clear guidelines for how clients can contact you between sessions and also how to contact you to know when you're available.}
+
+** Schedule 5 - Performance
+
+** Schedule 6 - Confidentiality and Data Protection
+*** Confidentiality
+*** Commercially Sensitive Information
+*** Data Protection
+*** Permission to Process Personal Data
+*** Record of Processing Activity
+*** Information Security
+
+** Schedule 7 - Charges
+*** Fees and payment process
+{Clarify out how much your services cost, when payments are due, how they should be made, and your refund policy (if applicable).}
+
+** Schedule 8 - Timeline of the coaching relationship
+{Clarify the overall duration of the engagement, whether it's a fixed term or ongoing, and any review or renewal points.}
+
+*** Initial Term
+
+*** Extending Sessions
+
+*** Exit and Expiry
+
+*** Ongoing Support
+
+** Schedule 9 - Conduct, Principles and Ethics
+*** Conduct and Behaviour
+State expectations for professionalism and respectful behavior from both sides to keep your sessions productive and safe.
+
+*** Principles
+*** Ethics
+*** Complaints
+
+** Agreement Checklist
+1. Do both parties understand all the features and sections of this MOU/
+2. Are the parties clearly defined?
+3. Do the parties understand any relevant reporting, governance, or oversight required?
+4. 
+
+** Agreement 
+
+** Signatures
+
+** Contract Template Licence
+
