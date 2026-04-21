@@ -44,7 +44,7 @@ This MoU is not intended to create legally binding obligations between the Parti
 
 The Parties enter into this MoU in good faith and on the understanding that each Party will act honestly, respectfully, and consistently with the terms of this document. Although it is not legally binding, the Parties intend it to be a clear and reliable statement of how they will work together.
 
-## What this Understanding does not cover
+## What this Understanding does Not Cover
 
 This MoU does not deal with matters that would usually be included in a binding commercial contract, including:
 
@@ -69,6 +69,7 @@ The Parties acknowledge that Coaching is a collaborative process. Progress depen
 In this MoU, the following terms have the meanings set out below:
 
 | Term | Defintion |
+|------|-----------|
 | **Coach** | means the person providing Coaching under this MoU. |
 | **Coachee** | means the person receiving Coaching under this MoU. |
 | **Coaching** | means the structured, reflective, and forward-looking process described in this MoU. |
