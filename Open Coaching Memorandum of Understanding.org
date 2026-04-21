@@ -58,15 +58,15 @@ The Parties acknowledge that Coaching is a collaborative process. Progress depen
 * Definitions
 In this MoU, the following terms have the meanings set out below:
 
-"Coach" means the person providing Coaching under this MoU.
-"Coachee" means the person receiving Coaching under this MoU.
-"Coaching" means the structured, reflective, and forward-looking process described in this MoU.
-"Coaching Arrangement" means the overall Coaching relationship and sessions covered by this MoU.
-"Confidential Information" means information shared during the Coaching Arrangement that is private or personal in nature, except where disclosure is required by law or where there is a serious concern about safety, wellbeing, or safeguarding.
-"Feedback" means written or verbal reflections, observations, comments, or review information shared by one Party with another in connection with the Coaching Arrangement.
-"Party" means a person who has agreed to this MoU, and "Parties" means all of them together.
-"Personal Information" means information relating to an identified or identifiable individual that is shared during the Coaching Arrangement.
-"Session" means an individual Coaching meeting or conversation taking place under this MoU.
+- Coach :: means the person providing Coaching under this MoU.
+- Coachee :: means the person receiving Coaching under this MoU.
+- Coaching :: means the structured, reflective, and forward-looking process described in this MoU.
+- Coaching Arrangement :: means the overall Coaching relationship and sessions covered by this MoU.
+- Confidential Information :: means information shared during the Coaching Arrangement that is private or personal in nature, except where disclosure is required by law or where there is a serious concern about safety, wellbeing, or safeguarding.
+- Feedback :: means written or verbal reflections, observations, comments, or review information shared by one Party with another in connection with the Coaching Arrangement.
+- Party :: means a person who has agreed to this MoU, and "Parties" means all of them together.
+- Personal Information :: means information relating to an identified or identifiable individual that is shared during the Coaching Arrangement.
+- Session :: means an individual Coaching meeting or conversation taking place under this MoU.
 
 * Standards, Conduct, Principles, and Ethics
 The Parties agree to work together in a way that is professional, respectful, and supportive of an effective Coaching relationship.
